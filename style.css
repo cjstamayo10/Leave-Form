@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  background-color: #f2f1f1;
+}
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+.title {
+  font-size: 1.85rem;
+  font-weight: 700;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+#leaveBalance{
+    font-weight: 700;
+}
+.balance .subtitle {
+  margin-bottom: 10px;
+  font-weight: 500;
+  font-size: 16px;
+}
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  background: #6d6d6d;
+  color: #f2f1f1;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.btn {
+  margin-bottom: 20px;
+}
+
+#leaveFormContainer{
+    display: none;
+}
+
+#leaveFormContainer .title {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+#leaveFormContainer form {
+  font-size: 14px;
+}
+#leaveFormContainer form input {
+  display: block;
+  margin-bottom: 20px;
+}
+#leaveFormContainer form #halfDay {
+  display: inline;
+}
+#leaveFormContainer form button {
+  display: block;
+}
+#formTable {
+  margin-top: 20px;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  border-collapse: collapse;
+}
+#formTable tr th{
+  padding: 0 20px;
+  border-bottom: 1px solid #ccc;
+}
+#formTable td{
+    text-align: center;
+  border-bottom: 1px solid #ccc;
+
+}
