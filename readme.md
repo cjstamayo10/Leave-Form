@@ -1,7 +1,7 @@
 # Leave Form using JavaScript | Take-Home Test
 Hi!
 
-This is the form that I created for the take-home test that you have given to me.
+This is the form that I created for the take-home test.
 #
 The whole process is can be showed at the JavaScript since it is the required for creating this form. 
 
@@ -21,7 +21,7 @@ Live View of Form Link:
 https://leave-form.onrender.com
 
 #
-I hope it matches the output that you expected. 
+I hope it matches the output that expected. 
 
 With regards, 
 Christian Jefferson S. Tamayo
